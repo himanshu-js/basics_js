@@ -1,2 +1,2 @@
 # basics_js
-the basics of the javascript 
+the code repo for all the basic concepts of javascript
